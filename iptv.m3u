@@ -1,8 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1,***HasBahCa IPTV***ABD - USA ***
-http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
-#EXTINF:-1,1 on 1 Boxing TV
-http://204.107.26.145:1935/live/1988.low.stream/HasBahCa.m3u8
+#EXTINF:-1,NASATV
+http://www.nasa.gov/multimedia/nasatv
 #EXTINF:-1,ABC
 rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=1&id=&width=580&height=400&autostart=true&strech=
 #EXTINF:-1,AMC HD
